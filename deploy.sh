@@ -7,9 +7,9 @@ pip install -r requirements.txt
 python ./python_scripts/merge_mkdocs.py
 
 python ./python_scripts/generate_md.py \
---getup_threshold 7.75 \
+--getup_threshold 8.75 \
 --recent_days 30 \
---name Qihang
+--name Jun
                       
 mkdocs gh-deploy --force
 
