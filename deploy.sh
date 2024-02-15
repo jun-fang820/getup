@@ -1,4 +1,4 @@
-git clone https://github.com/Qihang-Zhang/getup-core.git
+git clone https://github.com/jun-fang820/getup-core.git
 
 ln -s getup-core/* .
 
